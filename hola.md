@@ -1,3 +1,3 @@
 # Hola
 
-Esta es mi primera práctica con Git.
+Este es el cambio desde la interfaz
